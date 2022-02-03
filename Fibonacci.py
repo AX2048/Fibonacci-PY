@@ -34,7 +34,7 @@ pri_arr = Fibo_Che(fibCH)
 
 print('')
 print(f'Fibo_Che({fibCH})')
-print(f'Чётные числа :: {pri_arr} в колличестве :: {len(pri_arr)}')
+print(f'Чётные числа :: {pri_arr} в количестве :: {len(pri_arr)}')
 
 
 #index=0
